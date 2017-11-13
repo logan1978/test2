@@ -9,5 +9,6 @@
 <body>
 Test Git
 new
+release
 </body>
 </html>
