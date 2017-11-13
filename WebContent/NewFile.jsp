@@ -8,5 +8,6 @@
 </head>
 <body>
 Test Git
+release
 </body>
 </html>
