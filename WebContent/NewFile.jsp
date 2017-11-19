@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Change title</title>
 </head>
 <body>
 Test Git
+release
+add new change
 </body>
 </html>
